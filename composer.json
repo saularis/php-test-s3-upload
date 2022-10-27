@@ -1,0 +1,12 @@
+{
+    "name": "abdulla/php-test-s3-upload",
+    "authors": [
+        {
+            "name": "Abdulla Malik",
+            "email": "hi@abdulla.dev"
+        }
+    ],
+    "require": {
+        "league/flysystem-aws-s3-v3": "^3.10"
+    }
+}
